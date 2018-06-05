@@ -1,0 +1,2 @@
+# workingarea
+TBD git eğitimi 
